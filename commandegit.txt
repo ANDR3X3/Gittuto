@@ -1,0 +1,21 @@
+#To display Version Git : 
+git --Version
+
+
+#To clone you're Repertory :
+Git Clone URL
+
+#To Add File Or directory : 
+git add . #OR name of the file file/directory  For al or choise the name of the file wanted
+
+#to commit
+git commit -m " your commit message " 
+
+#to push
+git push
+
+#to synch you're account
+git config --global user.name "@GITHUB NAME"
+git config --global user.mail test@yourexample.com
+
+
