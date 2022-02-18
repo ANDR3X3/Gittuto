@@ -1,3 +1,5 @@
+UPDATE 18/02/2022 16:10
+
 #To display Version Git : 
 git --Version
 
@@ -17,5 +19,6 @@ git push
 #to synch you're account
 git config --global user.name "@GITHUB NAME"
 git config --global user.mail test@yourexample.com
+
 
 
